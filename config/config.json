@@ -1,0 +1,33 @@
+{
+  "development": {
+    "username": "dojo",
+    "password": "theplaceoftheway",
+    "database": "GeoLookup",
+    
+    "options":{
+      "dialect": "mssql",
+      "host": "dbdev"
+    }
+  },
+  "test": {
+    "username": "dojo",
+    "password": "theplaceoftheway",
+    "database": "GeoLookup",
+    
+    "options":{
+      "dialect": "mssql",
+      "host": "dbdev"
+    }
+  },
+  "production": {
+    "username": "dojo",
+    "password": "theplaceoftheway",
+    "database": "GeoLookup",
+    
+    "options":{
+      "dialect": "mssql",
+      "host": "sql20",
+      "port": 14303
+    }
+  }
+}
