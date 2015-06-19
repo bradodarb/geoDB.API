@@ -1,0 +1,14 @@
+Host
+ec2-50-16-215-120.compute-1.amazonaws.com
+
+Database
+d46kb6n8id2qtk
+
+User
+u9lj2h5l9tmq4v
+
+Port
+5482
+
+Password
+p877ds2br4hff51jh623ja2dse5
