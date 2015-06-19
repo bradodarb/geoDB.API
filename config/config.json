@@ -1,33 +1,33 @@
 {
   "development": {
-    "username": "dojo",
-    "password": "theplaceoftheway",
-    "database": "GeoLookup",
+    "username": "postgres",
+    "password": "z0mbee",
+    "database": "postgres",
     
     "options":{
-      "dialect": "mssql",
-      "host": "dbdev"
+      "dialect": "postgres",
+      "host": "localhost"
     }
   },
   "test": {
-    "username": "dojo",
-    "password": "theplaceoftheway",
-    "database": "GeoLookup",
+    "username": "postgres",
+    "password": "z0mbee",
+    "database": "postgres",
     
     "options":{
-      "dialect": "mssql",
-      "host": "dbdev"
+      "dialect": "postgres",
+      "host": "localhost"
     }
   },
   "production": {
-    "username": "dojo",
-    "password": "theplaceoftheway",
-    "database": "GeoLookup",
+    "username": "postgres",
+    "password": "p877ds2br4hff51jh623ja2dse5",
+    "database": "d46kb6n8id2qtk",
     
     "options":{
-      "dialect": "mssql",
-      "host": "sql20",
-      "port": 14303
+      "port": 5482,
+      "dialect": "postgres",
+      "host": "ec2-50-16-215-120.compute-1.amazonaws.com"
     }
   }
 }
